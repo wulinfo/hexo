@@ -1,0 +1,55 @@
+# Logo
+logo_image_source: /images/logo.svg
+
+# Index Page
+index_banner_text: 信息
+index_banner_text_secondary: 记录一个老网民的博客
+index_font_awesome_icon_css: fa fa-magic
+
+# Header
+menu:
+  首页: /
+  归档: /archives
+  关于: /about
+  联系: /contact
+
+# Post
+default_post_title: Untitled
+default_post_icon: fa-file-text-o
+
+# Archive Date Format
+archive_date_format: MMM YYYY
+archive_font_awesome_icon_css: fa-folder-open
+
+# About Widget
+about_widget_avatar_url: https://s.gravatar.com/avatar/d541eaa023b893c3c312ccf9eada14e1?s=80
+about_widget_text: "我叫wulinfo，这是我的个人博客.<br>我喜欢一切自己感兴趣的东西，这里也将记录我的喜欢的东西<br>我当前处于业余时间撰写博文，so..."
+
+
+# Comments.
+comments:
+  # Disqus comments
+  disqus_shortname: wulinfo
+
+# Google Analytics Tracking ID
+google_analytics:
+
+# Social Media Platforms
+social_platforms:
+  - url: https://wulinfo.twitter.com/
+    fa_icon: fa-twitter
+  - url: https://github.com/wulinfo
+    fa_icon: fa-github
+  - url: https://plus.google.com/u/0/100082536570311953158
+    fa_icon: fa-google-plus
+  - url: https://www.behance.net/wulinfocb2e
+    fa_icon: fa-behance
+  - url: https://500px.com/wulinfo
+    fa_icon: fa-500px
+  - url: mailto:wulinfo@gmail.com
+    fa_icon: fa-envelope
+  - url: /atom.xml
+    fa_icon: fa-rss
+
+# Footer about
+footer_about: "All right reserved | Design & Hexo <a class=\"link dim white\" href=\"http://www.codeblocq.com/\">Jonathan Klughertz</a>"
