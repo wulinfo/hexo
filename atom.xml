@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>老网民</title>
+  
+  <subtitle>个人日志博客</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.wulinfo.com/"/>
+  <updated>2017-10-08T18:49:42.707Z</updated>
+  <id>https://www.wulinfo.com/</id>
+  
+  <author>
+    <name>wulinfo</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://www.wulinfo.com/2017/10/09/hello-world/"/>
+    <id>https://www.wulinfo.com/2017/10/09/hello-world/</id>
+    <published>2017-10-08T18:49:42.707Z</published>
+    <updated>2017-10-08T18:49:42.707Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>My Gallery</title>
+    <link href="https://www.wulinfo.com/2017/10/05/My-Gallery-1/"/>
+    <id>https://www.wulinfo.com/2017/10/05/My-Gallery-1/</id>
+    <published>2017-10-05T07:03:00.000Z</published>
+    <updated>2017-10-08T18:49:42.707Z</updated>
+    
+    <content type="html"><![CDATA[<p>相集</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;相集&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2017国庆</title>
+    <link href="https://www.wulinfo.com/2017/10/03/2017guoqing/"/>
+    <id>https://www.wulinfo.com/2017/10/03/2017guoqing/</id>
+    <published>2017-10-02T16:05:21.000Z</published>
+    <updated>2017-10-08T18:49:42.707Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://i.imgur.com/NCVx4gL.jpg" alt="梅田小学"><br><img src="https://i.imgur.com/HkmGcJv.jpg" alt="梅田小学"><br><img src="https://i.imgur.com/jnSHBOA.jpg" alt="城市光影"><br><img src="https://i.imgur.com/7pvCaGz.jpg" alt="向日葵-百花洲"><br><img src="https://i.imgur.com/bm4KAim.jpg" alt="向日葵-百花洲"><br><img src="https://i.imgur.com/0d0R1nV.jpg" alt="松山湖-百花洲"><br><img src="https://i.imgur.com/IeTtAN7.jpg" alt="松山湖-百花洲"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://i.imgur.com/NCVx4gL.jpg&quot; alt=&quot;梅田小学&quot;&gt;&lt;br&gt;&lt;img src=&quot;https://i.imgur.com/HkmGcJv.jpg&quot; alt=&quot;梅田小学&quot;&gt;&lt;br&gt;&lt;img src=&quot;https://i.i
+      
+    
+    </summary>
+    
+    
+      <category term="光影" scheme="https://www.wulinfo.com/tags/%E5%85%89%E5%BD%B1/"/>
+    
+      <category term="镜头记" scheme="https://www.wulinfo.com/tags/%E9%95%9C%E5%A4%B4%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>独家披露10款烧腊做法与实用配方</title>
+    <link href="https://www.wulinfo.com/2017/10/02/shaola/"/>
+    <id>https://www.wulinfo.com/2017/10/02/shaola/</id>
+    <published>2017-10-02T08:04:11.000Z</published>
+    <updated>2017-10-08T18:49:42.707Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://i.imgur.com/qL80hqy.jpg" alt="烧腊"></p><p>   烧腊是一种传统名菜，源于汉族，属于粤菜系，它包括烧鹅、烧乳鸽、烧乳猪、叉烧以及一些卤水菜式，以色香味俱全而闻名。真正意义上的烧腊，其实分为“烧”和“腊”两种，但是现在人们总是将“烧腊”连在一起叫，把这两种烹饪技法融合在一起了。烧腊一般是先用秘制的酱汁腌制一段时间再放到炉里烤，烧鹅、乳猪皮脆、肥美，口味略带广东人喜爱的甜味。</p><h2 id="作者简介："><a href="#作者简介：" class="headerlink" title="作者简介："></a>作者简介：</h2><p>   张伟，2005年入行，起初跟随广东、香港师傅学习烧腊、粤港菜。先后在上海顺德鱼庄、顺峰粤菜海鲜酒楼、喜记海鲜酒楼（四钻）、振达海鲜城（四星级）、东海国际大酒店（五星级）、九圆港澳茶餐厅、东海国际大酒店（五星级）等工作过，从学徒到中工，从副主管到主管再到行政总厨。<br>   不经意间，张伟已经跟烧腊打了10年的交道，凭着他的努力和上进，如今已攀升到西塘大酒店烧腊总管的职位。</p><h2 id="一、极品烧鹅皇"><a href="#一、极品烧鹅皇" class="headerlink" title="一、极品烧鹅皇"></a>一、极品烧鹅皇</h2><ul><li>主料：黑鬃鹅一只。</li><li>料头：红葱头1粒，生姜2片，蒜子2粒，芫西梗2条（全部用油炸香），八角2粒，香叶2片。</li><li>腌料：烧鹅盐75克，烧鹅酱35克（见下文），九江双蒸酒3克。</li><li>上皮料：烧鹅脆皮水（见下文）。</li></ul><p>做法：</p><ol><li>将8.5斤左右的黑鬃鹅宰杀洗净（一般市场宰杀）稍冲血水（冲水15分钟左右）挂起沥干水份。</li><li>将烧鹅盐、酱放入鹅腔内，抹擦均匀，肉厚的地方偏多，再放入料头及双蒸酒，用鹅尾针缝好鹅屁股入料口，以免酱汁外流。</li><li>将鹅平放胸口朝下，背部朝上静放2小时（此举使胸口肉厚部位更好入味，放的时候屁股用东西垫一下偏高）。</li><li>将鹅体从喉部落刀放血处插入气管，给鹅体充气，冲至鹅皮发涨，鹅身饱满即可（充气不要充的太多，以免烧的时候破皮）。</li><li>烧一锅热开水，等烧至大开将鹅放入烫皮，烫至鹅皮收紧（8秒左右，切记烫至表皮出油），稍过冷河（过冷水），用烧鹅勾勾好挂起来，待表皮稍干淋烧鹅脆皮水，从头淋下，淋至全身均匀，在喉部放血处垫一块锡纸（以防血水流出影响鹅身上色）。</li><li>将鹅挂在通风处低温间或空调房，用牛角扇吹干表皮（6个小时，视天气与室内干燥潮湿而定）。</li><li>烤炉点火预热，温度升至240度放鹅入炉烧，背部朝火，烧至鹅体金红皮脆，体重变轻至熟取出（8.5斤左右一般烧至[48–55]分钟左右，具体视鹅的只数、火的大小、天气而定，冬夏有别）。</li><li>取出挂十来分钟后拔出鹅尾针，将汁放出，用密芦隔过，食用时斩件，淋上鹅肚放出来的原汁即可。</li></ol><h2 id="二、古法盐焗鸡"><a href="#二、古法盐焗鸡" class="headerlink" title="二、古法盐焗鸡"></a>二、古法盐焗鸡</h2><ul><li>主料：清远鸡一只（2.6斤左右），油纸3张。</li><li>腌料：嘉文盐焗鸡粉30克，客家米酒10克，生抽15克，粗海盐6斤，生油适量。</li></ul><p>做法：</p><ol><li>将鸡清洗干净，摘去油、去肺去喉及内脏。</li><li>用盐焗鸡粉均匀涂擦在鸡身内外，腌制35分钟。</li><li>勾起光鸡，涂上生抽，挂在风口处用风扇吹至表皮略干（吹干两小时）。</li><li>取一张油纸，涂上生油，包好醃製的鸡，取另两张油纸，用水弄湿，再包一层。</li><li>将海盐用小火炒热，取大砂锅一个烧热，将五分之二的盐放在砂锅底部，然后将鸡放入，将另外五分之三的盐铺在鸡身上，小火焗20分钟关火，再稍焗便熟。食用时用手撕好摆回原鸡造型即可。</li></ol><h2 id="三、蜜汁靓花叉"><a href="#三、蜜汁靓花叉" class="headerlink" title="三、蜜汁靓花叉"></a>三、蜜汁靓花叉</h2><ul><li>主料：去皮五花肉10斤。</li><li>料头：蒜子2两，红葱头10粒，芫西梗4条，姜1两。</li><li>腌料：叉烧盐4汤勺，叉烧酱2汤勺（见下文烧腊配方），双蒸酒15克，玫瑰露酒10克。</li><li>上色：鸡饭老抽、麦芽糖。</li></ul><p>做法：</p><ol><li>五花肉切成5厘米宽、3厘米厚、30厘米长的条，冲净血水，捞起控干水份。</li><li>将五花肉放入盆中，料头拍碎，加入叉烧盐、叉烧酱，双蒸酒，玫瑰露、鸡饭老抽搅拌均匀，腌制5小时（期间需翻动3–4次）。</li><li>用叉烧环将腌好的叉烧穿好（也可用钢针穿，不过为了安全，需要上下各穿一条，两条钢针的距离以18厘米为好，穿好用烧鹅勾勾好），顶部用锡纸包住。</li><li>烤炉预热至250度放入叉烧入炉烧，烧25分钟取出，拿掉锡纸，剪去烧焦部分，淋麦芽糖，稍微滴一下，再次入炉烧10分钟取出（此时火比之前小一点，挂过糖大火容易烧焦），再次淋麦芽糖，待糖滴一下后再次入炉烧10分钟取出，再次淋麦芽糖即可。食用时切好，淋少许烧鹅汁或豉油，喜欢吃重甜的可以淋点蜂蜜。</li></ol><h2 id="四、生炸妙龄乳鸽"><a href="#四、生炸妙龄乳鸽" class="headerlink" title="四、生炸妙龄乳鸽"></a>四、生炸妙龄乳鸽</h2><ul><li>主料：乳鸽一只（4.5–5两）。</li><li>腌料：乳鸽盐45克，广东米酒2克（见下文）。</li><li>料头：蒜子4粒，砂姜2粒，红葱头1粒，生姜两片，全部切成蓉。</li><li>上皮料：乳鸽脆皮水（见下文）。</li></ul><p>做法：</p><ol><li>将乳鸽清洗干净，待用。</li><li>将料头与乳鸽盐抓拌均匀抹擦乳鸽内外，肚子内部胸口处多放点，腌制2小时后将乳鸽取出稍微冲掉料头（冲一下即好）。</li><li>烧一锅热水，待水开将乳鸽放入烫皮（约6秒），用“S形勾”勾住喉部落刀处，待表皮稍干挂脆皮水（用油刷刷上皮水亦可），挂在通风处吹干。</li><li>烧一锅油至170度，将乳鸽放入，采用半浸半炸的方式炸至乳鸽金红色皮脆至熟即可（4.5–5两炸至4–4分30秒左右，炸的时间同油温控制好，切记炸的过干失去口感）。</li></ol><h2 id="五、冰烧三层肉（生烧法）"><a href="#五、冰烧三层肉（生烧法）" class="headerlink" title="五、冰烧三层肉（生烧法）"></a>五、冰烧三层肉（生烧法）</h2><ul><li>主料：带皮五花肉一方8斤。</li><li>料头：蒜子、生姜各适量。</li><li>腌料：盐、白砂糖、五香粉、熟白芝麻粉、甘草粉、沙姜粉、八角粉、黑椒碎，住侯酱、海鲜酱、广合腐乳、烧汁。</li><li>腌皮料：松肉粉、盐各5克。</li></ul><p>做法:</p><ol><li>先将五花肉冲洗干净，捞起沥干水份，将肉平放，皮朝上，用腌皮料均匀擦在肉皮上，静置25分钟。</li><li>取一干净托盘，将肉皮朝下放置托盘内，在肉身寄直刀（两刀相距两指宽为宜，不要寄太深，以免划破肉皮），将腌料均匀的抹擦在肉身（皮的那一面不用淹），腌制入味。</li><li>用钢针穿好，烤炉点火预热至至195度，将肉放到烤炉里焙至肉皮变红再取出松针（焙的时候火不要太大，针要松的均匀），再放入烤炉焙15分钟，取出，挂在通风处用风扇将皮吹干。</li><li>用锡纸包好肉身的一面，烤炉预热至380度将肉放入炉中，皮的一面朝火用猛火烧至皮成黑色，取出，用刀刮去表层黑色部分，取一干净清油刷，洗干净表皮，再次入炉将肉烧至黑红色取出，刮去烧焦部分，再次刷油清洗干净，入炉烧至肉熟皮呈金红色取出即可。</li></ol><h2 id="六、金盏沙律鸳鸯鸡"><a href="#六、金盏沙律鸳鸯鸡" class="headerlink" title="六、金盏沙律鸳鸯鸡"></a>六、金盏沙律鸳鸯鸡</h2><ul><li>主料：脆皮吊烧鸡一只。</li><li>辅料：炸好金盏12个。</li><li>调味：花生油3克，味粉3克，盐5克，糖2克，鸡粉1克；</li><li>A料（哈密瓜、火龙果、牛油果各1两）</li><li>B料（自调鲜果沙拉酱25克）</li><li>C料（青瓜条、葱度、鲜砂姜蓉、芫茜梗、去皮花生碎、腰果碎各适量）</li></ul><p>做法:</p><ol><li>先将吊烧鸡一只放进油锅炸至皮脆呈金红色，捞出沥油。</li><li>将A料倒入碗中加入B料捞拌均匀装入12个金盏中，将鸡皮片成12件放面上，将鸡肉用手撕成丝，加C料及调味品捞匀，摆在碟子中间，摆出鸡的造型即可。</li></ol><h2 id="七、岭南脆金猪"><a href="#七、岭南脆金猪" class="headerlink" title="七、岭南脆金猪"></a>七、岭南脆金猪</h2><ul><li>主料：光乳猪一只。</li><li>腌料：盐、白砂糖各45克、五香粉，八角粉，白胡椒粉，十三香、砂姜粉、烧鹅酱、玫瑰露酒各适量。</li><li>上皮料：乳猪脆皮水(见下文）。</li></ul><p>做法:</p><ol><li>乳猪洗净，平放于砧板上，肚子朝上，先从猪头下颚中间将猪劈开，从头至尾从中间龙骨处劈开（掌握好力度，千万不要划破猪皮），去掉左右两侧前三根肋骨，翻过来背朝上用刀拍打猪头取出猪脑。</li><li>将猪冲洗一下，飞水烫皮，挂起沥一下水份。</li><li>将猪平放，皮朝下，用腌料腌制入味，用乳猪叉上好乳猪，翻过来，用清水洗净猪皮，用刷子刷脆皮水。</li><li>烤炉点火预热，将乳猪挂在烤炉内，不用加盖，中火焙熟，取出挂在通风处吹干。</li><li>乳猪炉点火预热，将乳猪置于乳猪炉上不停转动，先烤头部，烤的时候如起泡就用乳猪针将起泡处刺穿，烧焦部分用刀轻轻刮去，均匀刷上清油，烧至乳猪皮金红化皮即可（请关注后期乳猪专版，详解乳猪及部分烧腊中西融合菜品）。</li></ol><h2 id="八、脆皮芝麻鸡"><a href="#八、脆皮芝麻鸡" class="headerlink" title="八、脆皮芝麻鸡"></a>八、脆皮芝麻鸡</h2><ul><li>主料：清远鸡一只。</li><li>腌料：烧鹅盐、烧鹅酱、花生酱各适量。</li><li>料头：蒜蓉、新鲜砂姜蓉各适量，白芝麻1两。</li><li>上皮料：烧鸡脆皮水，蛋清。(见下文）</li></ul><p>做法：</p><ol><li>将鸡洗干净，用腌料腌制入味，烧一锅开水将鸡烫皮，用双环勾勾好，上烧鸡脆皮水，挂在通风处吹至表皮7成干。</li><li>将鸡均匀刷上蛋清，裹上白芝麻，再次用风扇吹干。</li><li>烤炉预热至210度，将鸡放入烤炉烧熟取出，上菜时淋油炸至皮脆即可。</li></ol><h2 id="九、蒙古烤羊腿"><a href="#九、蒙古烤羊腿" class="headerlink" title="九、蒙古烤羊腿"></a>九、蒙古烤羊腿</h2><ul><li>主料：新鲜羊腿一只。</li><li>腌料：盐、十三香、味精、嫩肉粉、孜然粉、白芝粉、五香粉、熟白芝麻粉、海鲜酱、花生酱、白腐乳、生抽、烧肉汁、白酒、小茴香、百里香各适量。</li><li>料头：蒜子、生姜、芫茜、香芹、红葱头、柠檬叶各适量。</li><li>刷料：植脂淡奶油1斤、芝士片2两，牛油5两（全部调溶）。</li></ul><p>做法：</p><ol><li>羊腿洗净寄好花刀，用腌料腌制一晚上（将料头拍碎放进去一起腌）。</li><li>烤箱预热至185度，将羊腿将羊腿放入烤盘内烤至熟透，烤的时候每隔15分钟需要刷一次刷料。</li></ol><h2 id="十、龙皇太子鸽"><a href="#十、龙皇太子鸽" class="headerlink" title="十、龙皇太子鸽"></a>十、龙皇太子鸽</h2><ul><li>主料：新鲜乳鸽一只，鲜带子两粒，龙虾肉1两，肥猪肉、马蹄、蛋清各适量。</li><li>料头：芫茜蓉、葱蓉、姜蓉各少量。</li><li>腌料：乳鸽盐。（见下文）</li><li>上皮料：乳鸽脆皮水。（见下文）</li></ul><p>做法:</p><ol><li>将乳鸽一只从颈部放血落刀处拆去骨头（切记划破皮，否则此菜失败），待用。</li><li>将带子、龙虾肉、肥猪肉、马蹄剁成蓉，用盐调味（龙虾与带子够鲜，不用加味粉跟鸡粉），打成胶状，待用。</li><li>将乳鸽用乳鸽盐腌好，蒸至九成熟取出，放置冷却，用毛巾擦干里面水份，抹上少量生粉，酿入“3”，挂乳鸽脆皮水，用风扇吹干表皮，上菜时炸至乳鸽皮皮脆至熟即可。</li></ol><h2 id="烧腊配方"><a href="#烧腊配方" class="headerlink" title="烧腊配方"></a>烧腊配方</h2><ul><li><strong>烧鹅盐：</strong>白沙糖10斤，盐6.5斤，味精2斤，鸡粉6两，五香粉3两，八角粉、陈皮粉、砂姜粉各2两、白胡椒粉85克，玉桂粉1两，黑椒碎125克，十三香4盒。</li></ul><ul><li><p><strong> 烧鹅酱：</strong>海鲜酱、磨豉酱各3斤，柱候酱2斤,花生酱、芝麻酱各2瓶，黄河腐乳2瓶。</p></li><li><p><strong> 烧鹅脆皮水：</strong>白醋10斤，浙醋2支，麦芽糖2.6斤，二锅头6两，柠檬2个切片。</p></li><li><p><strong> 叉烧盐：</strong>白沙糖4.5斤，盐8两，味精1斤，五香粉、陈皮粉各2两，甘草粉1两，松肉粉(嫩肉粉)60克。</p></li><li><p><strong>叉烧酱：</strong>海鲜酱、排骨酱各3斤，叉烧酱5斤，南乳汁、蚝油各8两，花生酱1.5斤，芝麻酱1斤。</p></li><li><p><strong> 乳鸽盐：</strong>白沙糖5斤，盐3.5斤，砂姜粉3两，蒜香粉2两，十三香2盒，味粉1.5斤，盐焗鸡粉5小包，甘草粉、八角粉各1两，草果粉25克，五香粉2两.</p></li><li><p><strong> 乳鸽脆皮水：</strong>白醋6斤，浙醋1斤，麦芽糖4.5两，白酒四两，食粉1茶勺。</p></li><li><p><strong> 烧鸡脆皮水：</strong>白醋6斤，浙醋1.5斤，麦芽糖1，6斤，花雕酒4两，清水1.6斤。</p></li><li><p><strong> 烧味部跟料 </strong></p><ul><li>烧鹅、琵琶鸭——冰花梅酱</li><li>吊烧鸡——泰国甜辣鸡酱</li><li>脆皮乳鸽——淮盐、喼汁</li><li>乳猪、烧腩肉——甜麵酱、白沙糖（烧肉传统跟甜面酱、白沙糖，现在多跟黄芥末酱）</li><li>白切鸡、豉油鸡——姜蓉、砂姜豉油</li><li>片皮鸭——荷叶饼、京葱、黄瓜丝、甜面酱</li></ul></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://i.imgur.com/qL80hqy.jpg&quot; alt=&quot;烧腊&quot;&gt;&lt;/p&gt;
+&lt;p&gt;   烧腊是一种传统名菜，源于汉族，属于粤菜系，它包括烧鹅、烧乳鸽、烧乳猪、叉烧以及一些卤水菜式，以色香味俱全而闻名。真正意义上的烧腊，其实分为“烧”和“
+      
+    
+    </summary>
+    
+    
+      <category term="美食" scheme="https://www.wulinfo.com/tags/%E7%BE%8E%E9%A3%9F/"/>
+    
+      <category term="粤菜" scheme="https://www.wulinfo.com/tags/%E7%B2%A4%E8%8F%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>QQ空間</title>
+    <link href="https://www.wulinfo.com/2007/02/08/qz/"/>
+    <id>https://www.wulinfo.com/2007/02/08/qz/</id>
+    <published>2007-02-08T06:50:14.000Z</published>
+    <updated>2017-10-08T18:49:42.707Z</updated>
+    
+    <content type="html"><![CDATA[<p>關於QQ空間</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;關於QQ空間&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="QQ" scheme="https://www.wulinfo.com/tags/QQ/"/>
+    
+  </entry>
+  
+</feed>
